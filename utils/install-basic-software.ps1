@@ -8,6 +8,7 @@ $packages = @(
     #"peazip.install"
     "7zip.install"
     "adobereader"
+    "anydesk.install"
     #"aimp"
     #"audacity"
     #"autoit"
