@@ -23,7 +23,7 @@ $packages = @(
     #"keepass.install"
     #"paint.net"
     #"putty"
-    #"python"
+    "python"
     #"qbittorrent"
     #"speedcrunch"
     #"sysinternals"
